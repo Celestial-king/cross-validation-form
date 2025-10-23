@@ -1,0 +1,5 @@
+{
+  "name": "AI-Powered Scholarship Registration",
+  "description": "A multi-step registration form for scholarship applications that uses AI to analyze uploaded documents, cross-check information, and provide a summary for administrative review.",
+  "requestFramePermissions": []
+}
